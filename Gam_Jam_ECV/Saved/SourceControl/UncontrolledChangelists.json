@@ -6,7 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/GameJam/Projet_Unreal/Gam_Jam_ECV/Content/FirstPerson/Input/IMC_Default.uasset",
-				"D:/GameJam/Projet_Unreal/Gam_Jam_ECV/Content/Gam_Jam/Level/L_Main_Map.umap"
+				"D:/GameJam/Projet_Unreal/Gam_Jam_ECV/Content/Gam_Jam/Level/L_Main_Map.umap",
+				"D:/GameJam/Projet_Unreal/Gam_Jam_ECV/Content/Gam_Jam/Triggers/Cle.uasset",
+				"D:/GameJam/Projet_Unreal/Gam_Jam_ECV/Content/Gam_Jam/Triggers/Fleu.uasset",
+				"D:/GameJam/Projet_Unreal/Gam_Jam_ECV/Content/Gam_Jam/Interface/Interact.uasset",
+				"D:/GameJam/Projet_Unreal/Gam_Jam_ECV/Content/Gam_Jam/Interface/Branche.uasset",
+				"D:/GameJam/Projet_Unreal/Gam_Jam_ECV/Content/Gam_Jam/Interface/Cle.uasset",
+				"D:/GameJam/Projet_Unreal/Gam_Jam_ECV/Content/Gam_Jam/Interface/I_Interact.uasset",
+				"D:/GameJam/Projet_Unreal/Gam_Jam_ECV/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/GameJam/Projet_Unreal/Gam_Jam_ECV/Content/Gam_Jam/Triggers/Porte.uasset"
 			]
 		}
 	]
